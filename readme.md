@@ -13,6 +13,7 @@
 [Plum](docs/Plum.md)  
 [Scrutiny](docs/Scrutiny.md)  
 [LaVita](docs/LaVita.md)  
+[Ochima](docs/Ochima.md)  
   
 # Vulnhub Writeups  
 
