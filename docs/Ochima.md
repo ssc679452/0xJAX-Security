@@ -7,7 +7,7 @@
 
 ## Phase 1: Reconnaissance  
   
-To begin, we spawn in the machine and wait for it to assign an IP address. In this case, it appears we will be attacking `192.168.171.32`  
+To begin, we spawn in the machine and wait for it to assign an IP address. In this case, it appears we will be attacking `192.168.171.32` (Note: I came back to this machine, so later in the writeup you will also see the victim host as `192.168.114.32`)  
   
 ![Offsec GUI](assets/Ochima/enum-1.png)  
   
