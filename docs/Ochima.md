@@ -54,6 +54,7 @@ We plug in our victim machine IP, our attacker IP, and listening port - while op
 ![Image of our nmap scan](assets/Ochima/enum-12.png)  
   
 It seems we have a foothold on the victim machine!  
+  
 ![Image of our nmap scan](assets/Ochima/enum-13.png)  
 
 I opt to spawn a bash shell via Python3 (after determining the location of the Python3 binary).  
@@ -71,6 +72,7 @@ Next, I aim to get a more stable shell on the machine in case my current shell d
 ![Image of our nmap scan](assets/Ochima/enum-16.png)  
 
 I utilize the private key I had generated to SSH into the victim machine without issue. Additionally, I call the bash shell as I prefer it.  
+  
 ![Image of our nmap scan](assets/Ochima/enum-17.png)  
   
 ![Image of our nmap scan](assets/Ochima/enum-18.png)  
