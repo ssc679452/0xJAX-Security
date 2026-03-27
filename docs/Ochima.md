@@ -85,7 +85,7 @@ Following this, I pull all of my linux enum tools into my `tool` directory, host
 
 Beginning our enumeration for priv esc, I start with some low hanging fruit checks such as SUID's, seeing if we have any sudo -l perms, and PwnKit - but none of these yield any interesting findings. I thought that we might be able to do something with the `fusermount3` binary - but this was a dead end it seemed.  
   
-[Image of our nmap scan](assets/Ochima/enum-21.png)  
+![Image of our nmap scan](assets/Ochima/enum-21.png)  
   
 ![Image of our nmap scan](assets/Ochima/enum-22.png)  
   
